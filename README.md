@@ -1,3 +1,4 @@
+currently restructuring the architecture to support the latest changes in vivado and xtending support to bare-metal 
 # AXI SystemVerilog Modules for High-Performance On-Chip Communication
 [![CI status](https://github.com/pulp-platform/axi/actions/workflows/gitlab-ci.yml/badge.svg?branch=master)](https://github.com/pulp-platform/axi/actions/workflows/gitlab-ci.yml?query=branch%3Amaster)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/pulp-platform/axi?color=blue&label=current&sort=semver)](CHANGELOG.md)
